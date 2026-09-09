@@ -6,6 +6,8 @@ I build AI agent systems — LLM-driven applications with tool use, structured o
 
 - **[Cycles](https://projects.blender.org/blender/cycles/pulls/80)** — Fixed a buffer overrun in Hydra vector primvar import; merged upstream.
 
+- **[Cycles](https://projects.blender.org/blender/cycles/pulls/69)** — Fixed Hydra volume rendering so object scaling preserves optical depth; merged upstream.
+
 ## Projects
 
 - **[finance-agent](https://github.com/nat-bishop/finance-agent)** — Open-ended research copilot on the Claude Agent SDK; autonomously writes and executes analytical queries against prediction market data
