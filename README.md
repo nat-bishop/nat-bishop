@@ -8,7 +8,9 @@ I'm a product engineer building AI agent systems, procedural 3D tools and GPU si
 
 **Procedural 3D that stays editable.** Describe an asset or scene, work with an agent on its typed node graph, and keep the recipe for further edits and variations. Halation combines a desktop authoring workflow, OpenUSD and Cycles rendering, and validation tools for articulated assets used in robotics simulation.
 
-[![A volcanic massif rendered in Halation](https://raw.githubusercontent.com/nat-bishop/halation/master/docs/hero.png)](https://github.com/nat-bishop/halation)
+[![An authored procedural workcell rendered in Halation](https://raw.githubusercontent.com/nat-bishop/halation/master/docs/media/halation-workcell.png)](https://github.com/nat-bishop/halation)
+
+*An authored procedural assembly, rendered in Halation.*
 
 Python · Rust · TypeScript · Pydantic AI · OpenUSD · Cycles · Electron
 
@@ -20,7 +22,7 @@ Python · Rust · TypeScript · Pydantic AI · OpenUSD · Cycles · Electron
 
 **GPU liquid, smoke and fire simulation in Rust and wgpu.** I built the engine from simulation kernels through resumable caches and a Houdini integration, with numerical benchmarks and blind visual comparisons guiding development.
 
-[![Liquid responding to a moving container](https://raw.githubusercontent.com/nat-bishop/halation-fluid/main/media/development/container-motion.gif)](https://github.com/nat-bishop/halation-fluid)
+[![A moving source deposits an amber viscous ribbon](https://raw.githubusercontent.com/nat-bishop/halation-fluid/main/media/development/viscous-ribbon.gif)](https://github.com/nat-bishop/halation-fluid)
 
 Rust · wgpu / WGSL · FLIP / APIC · Houdini · OpenVDB
 
