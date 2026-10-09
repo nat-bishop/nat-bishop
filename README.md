@@ -1,6 +1,6 @@
 # Hi, I'm Nat
 
-I'm a product engineer building AI agent systems, procedural 3D tools and GPU simulation. My main projects are **Halation** and **Halation Fluid**: work spanning agent interaction, editable scene representations, native compute and the tools to evaluate the results.
+I'm a product engineer building AI agent systems, procedural 3D tools and GPU simulation.
 
 ## Projects
 
